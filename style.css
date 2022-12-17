@@ -1,0 +1,29 @@
+div.bloc1{
+    
+    background-color: lightyellow;
+}
+div.bloc2{
+
+    background-color: greenyellow;
+}
+div.bloc3{
+
+    background-color: orange;
+}
+div.bloc4{
+
+    background-color: orange;
+}
+p.bloc5{
+
+    background-color: blue;
+    color:purple;
+
+}
+span.color_amarillo{
+  background-color: yellow;
+}
+a {
+  text-decoration: none;
+  color:black;
+}
